@@ -1,2 +1,2 @@
 # wasdocker
-WebSphere Application Server 8.5 (full profile) Docker file
+WebSphere Application Server (full profile) Docker file 
